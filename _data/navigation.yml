@@ -18,5 +18,5 @@ main:
   - title: "Page6"
     url: /page6/
     
-  - title: "Page7"
-    url: /page7/
+  - title: "Blog"
+    url: /year-archive/
